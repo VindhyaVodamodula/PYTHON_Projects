@@ -4,8 +4,6 @@
 Created on Mon May  5 02:48:19 2025
 
 @author: vindhya
-#student ID: 3728392
-programe 3- Loops and if conditions
 
 """
 
