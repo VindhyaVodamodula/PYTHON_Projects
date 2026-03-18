@@ -4,8 +4,7 @@
 Created on Sun May  4 01:51:39 2025
 
 @author: vindhya
-#student ID: 3728392
-programe 1- Math functions
+
 """
 #Displaying program name
 print("math functions")
