@@ -4,8 +4,7 @@
 Created on Thu May  8 02:15:18 2025
 
 @author: vindhya vodamodula
-Student ID: 3728392
-Program: Functions
+
 """
 #Defining each function
 def area_square():
